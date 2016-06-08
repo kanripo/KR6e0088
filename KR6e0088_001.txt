@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:05.112663
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:41
 #+TITLE: 華嚴經明法品內立三寶章
 #+PROPERTY: CBETA_ID T45n1874
 #+PROPERTY: ID KR6e0088
@@ -18,7 +18,7 @@ No.1874¶
 
 　三寶章　流轉章¶
 
-三寶章
+* 三寶章
 :PROPERTIES:
 :head: 三寶章
 :END:
@@ -464,7 +464,7 @@ No.1874¶
 在後。一乘十三寶。或前後或非前後如前說。¶
 餘義准可知。¶
 
-流轉章
+* 流轉章
 :PROPERTIES:
 :head: 流轉章
 :END:
